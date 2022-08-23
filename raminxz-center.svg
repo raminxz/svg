@@ -37,7 +37,7 @@
     <!-- Copied from: https://static.sonos.com/v1/fonts/logo/sonos-logo-regular-webfont.svg -->
     <font horiz-adv-x="1024" >
       <font-face font-family="sonos-logoregular" units-per-em="2048" ascent="1920" descent="-128" />
-      <missing-glyph horiz-adv-x="500" />
+      <missing-glyph horiz-adv-x="300" />
       <glyph unicode="&#xd;" horiz-adv-x="682" />
       <glyph unicode=" " />
       <glyph unicode="N" horiz-adv-x="812" d="M0 412h150v636l662 -664v1000h-148v-640l-664 664v-996z" />
