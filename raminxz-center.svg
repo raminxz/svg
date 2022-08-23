@@ -3,7 +3,7 @@
   <!-- Background -->
   
   <!-- Text using the #pattern in defs as the fill -->
-  <text x="50%" text-anchor="middle" y="10" dy="0.4em" fill="url(#pattern)" font-family="sonos-logoregular" font-size="24">raminxz</text>
+  <text x="50%" text-anchor="middle" y="20" dy="0.4em" fill="url(#pattern)" font-family="sonos-logoregular" font-size="64">raminxz</text>
   
   <defs>  
     <!-- Da gradient -->
